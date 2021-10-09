@@ -11,7 +11,7 @@ fn  main() {
             println!("{}", x);
             
         } else {
-            x = !(!a);  //Se a = true então = 1
+            x = !(!a);  //Se a = true então = 0
              println!("!(!{})\n",x );
              println!("{}", x);
         }
